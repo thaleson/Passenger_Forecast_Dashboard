@@ -1,0 +1,41 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+
+# IDEs
+.vscode/
+.idea/
+
+
+
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit
+*.log
+
+# Build directories
+build/
+dist/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Others
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project

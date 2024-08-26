@@ -1,0 +1,48 @@
+/* Estilos existentes */
+footer {
+    visibility: hidden;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+header {
+    visibility: hidden;
+}
+
+.css-9uxsmk {
+    color: black;
+}
+
+.css-9uxsmk:hover {
+    color: blue;
+}
+
+/* Novos estilos */
+.metric-text {
+    color: #007bff; /* Azul */
+    font-size: 24px;
+}
+
+.metric-value {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.metric-description {
+    font-size: 16px;
+}
+
+.insights-text {
+    color: #007bff; /* Azul */
+    font-size: 16px;
+}
+
+.footer-text {
+    color: #007bff; /* Azul */
+    font-size: 16px;
+    text-align: center;
+    margin-top: 10px;
+    visibility: visible;
+}
